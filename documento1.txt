@@ -1,0 +1,2 @@
+intrucciones básicas de git
+1.
