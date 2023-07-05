@@ -1,2 +1,3 @@
 Conceptos básicos de BD
 1. Sentencias SQL
+2. PL/SQL
