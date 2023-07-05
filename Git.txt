@@ -1,0 +1,24 @@
+intrucciones básicas de git
+1. git init: Inicializa un nuevo repositorio Git en un directorio local.
+2. git clone <URL>: Clona un repositorio remoto existente en tu máquina local.
+3. git add <archivo>: Agrega un archivo específico al área de preparación (staging area).
+4. git add .: Agrega todos los archivos modificados y nuevos al área de preparación.
+5. git commit -m "<mensaje>": Crea un nuevo commit con los cambios agregados en el área de preparación.
+6. git status: Muestra el estado actual del repositorio, incluyendo archivos modificados, agregados o eliminados.
+7. git log: Muestra el historial de commits del repositorio.
+8. git branch: Muestra una lista de ramas existentes y resalta la rama actual.
+9. git checkout <rama>: Cambia a la rama especificada.
+10. git merge <rama>: Fusiona la rama especificada con la rama actual.
+11. git push: Sube los cambios locales al repositorio remoto.
+12. git pull: Descarga los cambios remotos y fusiona los cambios en tu rama local.
+13. git remote add <nombre> <URL>: Agrega un nuevo repositorio remoto con un nombre específico.
+14. git remote -v: Muestra una lista de los repositorios remotos configurados.
+15. git diff: Muestra las diferencias entre el área de preparación y el último commit.
+16. git reset <archivo>: Retira un archivo específico del área de preparación sin perder los cambios.
+17. git reset --hard: Restablece el repositorio al estado de un commit específico, eliminando todos los cambios posteriores.
+18. git stash: Guarda los cambios locales en una pila temporal y los retira del árbol de trabajo.
+19.git cherry-pick <commit>: Aplica los cambios de un commit específico a la rama actual.
+20. git rm <archivo>: Elimina un archivo del repositorio y del sistema de control de versiones.
+21. git fetch: Descarga los cambios remotos sin fusionarlos en tu repositorio local.
+22. git config --global user.name "<nombre>": Configura el nombre del usuario globalmente en Git.
+23. git config --global user.email "<correo>": Configura el correo electrónico del usuario globalmente en Git.
