@@ -22,3 +22,4 @@ intrucciones básicas de git
 21. git fetch: Descarga los cambios remotos sin fusionarlos en tu repositorio local.
 22. git config --global user.name "<nombre>": Configura el nombre del usuario globalmente en Git.
 23. git config --global user.email "<correo>": Configura el correo electrónico del usuario globalmente en Git.
+24. git branch <nombre de la rama> crea una nueva rama
